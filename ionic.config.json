@@ -1,0 +1,7 @@
+{
+  "name": "bells-exam-scheduling-system",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
